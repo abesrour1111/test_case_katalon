@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<DataFileEntity>
+   <description></description>
+   <name>test_form</name>
+   <tag></tag>
+   <containsHeaders>true</containsHeaders>
+   <csvSeperator>TAB</csvSeperator>
+   <dataFileGUID>934f2a00-e6c4-4e90-b6b0-60b188995eec</dataFileGUID>
+   <dataSourceUrl>D:\formation\katalon\tp_katalon\TDD\users.csv</dataSourceUrl>
+   <driver>CSV</driver>
+   <isInternalPath>false</isInternalPath>
+   <query></query>
+   <secureUserAccount>false</secureUserAccount>
+   <sheetName></sheetName>
+   <usingGlobalDBSetting>false</usingGlobalDBSetting>
+</DataFileEntity>
